@@ -1,0 +1,1 @@
+Spring Cloud [Documentation](https://docs.spring.io/spring-cloud-sleuth/docs/current-SNAPSHOT/reference/html/integrations.html#sleuth-messaging-spring-cloud-function-integration) suggests that by default. But it seems that one needs to set spring.sleuth.integration.enabled=true to get tracing into kafka messages.
